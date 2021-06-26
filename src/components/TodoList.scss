@@ -3,4 +3,12 @@
   min-height: 320px;
   max-height: 513px;
   overflow-y: auto;
+
+  /* scrollbar hidden */
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+/* scrollbar hidden */
+.TodoList::-webkit-scrollbar {
+  display: none;
 }
