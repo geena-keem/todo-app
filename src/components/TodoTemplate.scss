@@ -27,3 +27,35 @@
     padding: 20px;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .TodoTemplate {
+    width: 350px;
+    // width가 주어진 상태에서 좌우 중앙 정렬
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4rem;
+    border-radius: 4px;
+    overflow: hidden;
+
+    .app-title {
+      background: #7eb2ed;
+      color: #ffecb3;
+      font-weight: bolder;
+      height: 4rem;
+      font-size: 2.5rem;
+      padding: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .content {
+      background: white;
+    }
+
+    .TodoInsert input {
+      padding: 20px;
+    }
+  }
+}
