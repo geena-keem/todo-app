@@ -26,7 +26,7 @@
 │  ├─ App.css
 │  ├─ App.js
 │  ├─ App.test.js
-│  ├─ components              UI 구성
+│  ├─ components
 │  │  ├─ TodoInsert.js
 │  │  ├─ TodoInsert.scss
 │  │  ├─ TodoList.js
