@@ -48,10 +48,10 @@
 
 ```
 React.js
-├─ react-icons: 아이콘 라이브러리
+├─ react-icons
 ├─ node-sass
-├─ classnames: 조건부 스타일링
-└─ react-virtualized: 렌더링 최적화
+├─ classnames
+└─ react-virtualized
 ```
 
 **[Reference]**
