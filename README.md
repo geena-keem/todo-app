@@ -12,6 +12,15 @@
 - 렌더링 최적화
 ```
 
+**[Technology]**
+
+```
+─ JavaScript
+─ React.js
+─ Sass
+─ React-virtualized
+```
+
 **[Project structure]**
 
 ```
@@ -43,15 +52,6 @@
 │  ├─ logo.svg
 │  ├─ reportWebVitals.js
 │  └─ ...
-```
-
-**[Technology]**
-
-```
-─ JavaScript
-─ React.js
-─ Sass
-─ React-virtualized
 ```
 
 **[Reference]**
