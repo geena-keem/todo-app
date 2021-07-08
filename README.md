@@ -9,6 +9,7 @@
 
 ```
 - 일정 항목 추가, 삭제, 토글 기능 구현
+- 렌더링 최적화
 ```
 
 **[Project structure]**
@@ -47,11 +48,10 @@
 **[Technology]**
 
 ```
-React.js
-├─ react-icons
-├─ node-sass
-├─ classnames
-└─ react-virtualized
+─ JavaScript
+─ React.js
+─ Sass
+─ React-virtualized
 ```
 
 **[Reference]**
